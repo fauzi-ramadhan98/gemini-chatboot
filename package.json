@@ -1,0 +1,27 @@
+{
+  "name": "gemini-chatboot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fauzi-ramadhan98/gemini-chatboot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/fauzi-ramadhan98/gemini-chatboot/issues"
+  },
+  "homepage": "https://github.com/fauzi-ramadhan98/gemini-chatboot#readme",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^1.22.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
